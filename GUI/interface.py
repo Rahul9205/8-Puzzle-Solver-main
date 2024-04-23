@@ -310,9 +310,8 @@ class InterfaceApp:
         """
         Invoked at pressing the contributors button. Displays a message box Containing names and IDs of contributors
         """
-        messagebox.showinfo('Contributors', "6744   -   Adham Mohamed Aly\n"
-                                            "6905   -   Mohamed Farid Abdelaziz\n"
-                                            "7140   -   Yousef Ashraf Kotp\n")
+        messagebox.showinfo('Contributors', "2K21/MC/131- Rahul\n"
+                                            )
 
     # =============================================================================================================== #
     ###     Helper Functions     ###
